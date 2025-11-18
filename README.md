@@ -126,7 +126,3 @@ REST_API/
 3. Make your changes and add tests
 4. Run `pytest` and ensure all tests pass
 5. Submit a pull request
-
-## License
-
-MIT License
