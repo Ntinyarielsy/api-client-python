@@ -1,5 +1,7 @@
 # REST API Client
 
+[![CI](https://github.com/Ntinyarielsy/api-client-python/actions/workflows/ci.yml/badge.svg)](https://github.com/Ntinyarielsy/api-client-python/actions/workflows/ci.yml)
+
 A simple and reusable REST API client library for sending GET, POST, PUT, PATCH and DELETE requests.
 
 ## Highlights
